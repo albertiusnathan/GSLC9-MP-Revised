@@ -4,9 +4,9 @@ Ini adalah repository untuk tugas GSLC 9 Mobile Programming milik Albertius Chri
 Keterangan Proyek
 =================
 Berikut adalah fitur-fitur yang dikerjakan pada proyek ini.
-- Implementasi GPS
-- Mencari lokasi berdasarkan nama
-- Memberikan pin-point pada suatu tempat
+- Implementasi GPS (DONE)
+- Mencari lokasi berdasarkan nama (IN-PROGRESS)
+- Memberikan pin-point pada suatu tempat (IN-PROGRESS)
 - Menyimpan catatan pin-point
 
 
