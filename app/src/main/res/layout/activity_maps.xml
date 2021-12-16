@@ -12,7 +12,7 @@
     >
 
     <!--    search bar-->
-    <EditText
+    <SearchView
         android:id="@+id/search_bar"
         android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp"
@@ -39,7 +39,32 @@
             android:layout_height="300dp"
             />
     </RelativeLayout>
-    <!--    button utk lihat bookmarked-->
+    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp"
+        >
+
+        <!--    button utk lihat bookmarked-->
+        <Button
+            android:id="@+id/bookmarkBtn"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:background="@drawable/frame"
+            android:text="@string/bookmarked_areas"
+            android:textSize="30sp"
+            android:textAllCaps="false"
+            android:fontFamily="sans-serif-medium"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            />
+        
+    </LinearLayout>
 
     <!--    untuk lihat history-->
 </LinearLayout>
