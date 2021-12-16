@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GMapsSample</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="search_for_location">Search for location</string>
+</resources>
